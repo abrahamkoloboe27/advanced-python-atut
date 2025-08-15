@@ -1,0 +1,42 @@
+2025-08-14 14:57:12,874 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 14:57:26,451 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06.parquet
+2025-08-14 14:57:27,130 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi trips data
+2025-08-14 14:57:27,197 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 14:57:30,336 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones.csv
+2025-08-14 14:57:30,337 - src.taxi_pipeline.get_data - ERROR - Failed to write taxi zones data: [Errno 21] Is a directory: '../data/raw/taxi_zones.csv'
+2025-08-14 15:00:11,425 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:00:25,545 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06.parquet
+2025-08-14 15:00:25,545 - src.taxi_pipeline.get_data - ERROR - Failed to write taxi trips data: [Errno 21] Is a directory: '../data/raw/taxi_trips_2025-06.parquet'
+2025-08-14 15:00:25,548 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:00:28,466 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:00:28,467 - src.taxi_pipeline.get_data - ERROR - Failed to write taxi zones data: [Errno 21] Is a directory: '../data/raw/taxi_zones'
+2025-08-14 15:02:24,775 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:02:39,785 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06
+2025-08-14 15:02:39,786 - src.taxi_pipeline.get_data - ERROR - Failed to write taxi trips data: [Errno 21] Is a directory: '../data/raw/taxi_trips_2025-06'
+2025-08-14 15:02:39,788 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:02:42,797 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:02:42,798 - src.taxi_pipeline.get_data - ERROR - Failed to write taxi zones data: [Errno 21] Is a directory: '../data/raw/taxi_zones'
+2025-08-14 15:03:18,873 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:03:32,277 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06
+2025-08-14 15:03:32,898 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi trips data to ../data/raw/taxi_trips_2025-062025-06.parquet
+2025-08-14 15:03:32,901 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:03:35,936 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:03:35,976 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi zones data
+2025-08-14 15:05:22,654 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:05:37,275 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06
+2025-08-14 15:05:38,165 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi trips data to ../data/raw/taxi_trips_2025-062025-06.parquet
+2025-08-14 15:05:38,170 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:05:41,026 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:05:41,072 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi zones data
+2025-08-14 15:08:06,214 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:08:20,968 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06
+2025-08-14 15:08:21,829 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi trips data to ../data/raw/taxi_trips_2025-06/2025-06.parquet
+2025-08-14 15:08:21,832 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:08:25,032 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:08:25,090 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi zones data to ../data/raw/taxi_zones/taxi_zones.csv
+2025-08-14 15:11:06,264 - src.taxi_pipeline.get_data - INFO - Fetching taxi trips data for 2025-06
+2025-08-14 15:11:20,683 - src.taxi_pipeline.get_data - INFO - Writing taxi trips data to ../data/raw/taxi_trips_2025-06
+2025-08-14 15:11:22,266 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi trips data to ../data/raw/taxi_trips_2025-06/2025-06.parquet
+2025-08-14 15:11:22,273 - src.taxi_pipeline.get_data - INFO - Fetching taxi zones data
+2025-08-14 15:11:25,375 - src.taxi_pipeline.get_data - INFO - Writing taxi zones data to ../data/raw/taxi_zones
+2025-08-14 15:11:25,447 - src.taxi_pipeline.get_data - INFO - Successfully wrote taxi zones data to ../data/raw/taxi_zones/taxi_zones.csv
