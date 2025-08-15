@@ -2,7 +2,7 @@ import pandas as pd
 from dotenv import load_dotenv
 import os
 load_dotenv()
-from .duckdb import create_duckdb_connection
+from .duckdb_utils import create_duckdb_connection
 
 
 from .loggins import configure_logging
