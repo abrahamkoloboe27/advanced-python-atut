@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+
+data/
+*.csv
+*.duckdb
+*.parquet
